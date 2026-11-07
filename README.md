@@ -18,9 +18,13 @@ Pastiin udah nge instal **Java Development Kit (JDK)**. Terus Buka (CMD), buka f
 2. **Jalankan program utama (MainF1):**
    java MainF1
 
-## Saat dijalankan di aplikasi eclips
-<img width="323" height="226" alt="image" src="https://github.com/user-attachments/assets/cb4ca89e-f25c-41ad-bb9d-5508dd8abb86" />
-
 ## Saat dijalankan di Terminal (CMD)
-<img width="415" height="299" alt="image" src="https://github.com/user-attachments/assets/0bfa6964-1d80-41be-a303-3fe078edfdee" />
+<img width="530" height="302" alt="image" src="https://github.com/user-attachments/assets/85198ada-7833-4c41-ba81-a45245267e99" />
 
+## Skenario 1 (cabang IF) 
+Mercedes (370 km/h) dan Ferrari (200 km/h) masuk cabang if saat 'servisMesin() dipanggil.
+<img width="949" height="586" alt="image" src="https://github.com/user-attachments/assets/79777478-c67e-40f8-aeee-9f05fae80c67" />
+
+## Sekenario 2 (Cabang ELSE)
+servisMesin() dipanggil lagi pada objek yang sama, sehingga Mercedes (250 km/h) dan Ferrari (300 km/h) masuk cabang else.
+<img width="590" height="177" alt="image" src="https://github.com/user-attachments/assets/853d9d23-db2e-409e-aeeb-beca3f25ee29" />
