@@ -21,3 +21,5 @@ Pastiin udah nge instal **Java Development Kit (JDK)**. Terus Buka (CMD), buka f
    java MainF1
 
 <img width="323" height="226" alt="image" src="https://github.com/user-attachments/assets/cb4ca89e-f25c-41ad-bb9d-5508dd8abb86" />
+<img width="415" height="299" alt="image" src="https://github.com/user-attachments/assets/0bfa6964-1d80-41be-a303-3fe078edfdee" />
+
