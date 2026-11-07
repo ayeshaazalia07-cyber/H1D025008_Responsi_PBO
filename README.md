@@ -27,4 +27,5 @@ Mercedes (370 km/h) dan Ferrari (200 km/h) masuk cabang if saat 'servisMesin() d
 
 ## Sekenario 2 (Cabang ELSE)
 servisMesin() dipanggil lagi pada objek yang sama, sehingga Mercedes (250 km/h) dan Ferrari (300 km/h) masuk cabang else.
+
 <img width="590" height="177" alt="image" src="https://github.com/user-attachments/assets/853d9d23-db2e-409e-aeeb-beca3f25ee29" />
