@@ -3,10 +3,10 @@
 Repositori ini berisi program Java untuk pemenuhan tugas Responsi Akhir Praktikum Pemrograman Berorientasi Objek (PBO) dengan tema **Otomotif** (NIM berakhiran 8)
 
 ## Identitas Mahasiswa
-**Nama:** Ayesha Putri Azalia
-**NIM:** H1D025008
-**Kelas / Shift:** Kelas A / Shift F / Shift H-I
-**Tema NIM:** Otomotif (Digit terakhir: 8)
+* **Nama:** Ayesha Putri Azalia
+* **NIM:** H1D025008
+* **Kelas / Shift:** Kelas A / Shift F / Shift H-I
+* **Tema NIM:** Otomotif (Digit terakhir: 8)
 
 ## Petunjuk Compile dan njalanin program di terminal
 
