@@ -19,13 +19,10 @@ Pastiin udah nge instal **Java Development Kit (JDK)**. Terus Buka (CMD), buka f
    java MainF1
 
 ## Saat dijalankan di Terminal (CMD)
-<img width="530" height="302" alt="image" src="https://github.com/user-attachments/assets/85198ada-7833-4c41-ba81-a45245267e99" />
+<img width="366" height="393" alt="image" src="https://github.com/user-attachments/assets/12c71b59-3b4b-446c-a6ff-e3a2748dea2c" />
 
-## Skenario 1 (cabang IF) 
-Mercedes (370 km/h) dan Ferrari (200 km/h) masuk cabang if saat 'servisMesin() dipanggil.
-<img width="949" height="586" alt="image" src="https://github.com/user-attachments/assets/79777478-c67e-40f8-aeee-9f05fae80c67" />
+## Saat dijalankan di Eclipse
+<img width="715" height="838" alt="image" src="https://github.com/user-attachments/assets/064f04c0-6d7b-4c1e-87be-ff2414ca854a" />
 
-## Sekenario 2 (Cabang ELSE)
-servisMesin() dipanggil lagi pada objek yang sama, sehingga Mercedes (250 km/h) dan Ferrari (300 km/h) masuk cabang else.
-
-<img width="590" height="177" alt="image" src="https://github.com/user-attachments/assets/853d9d23-db2e-409e-aeeb-beca3f25ee29" />
+* **Skenario 1 (cabang IF)**: Mercedes (370 km/h) dan Ferrari (200 km/h) masuk cabang if saat servisMesin() dipanggil.
+* **Skenario 2 (cabang ELSE)**: servisMesin() dipanggil lagi pada objek yang sama, sehingga Mercedes (250 km/h) dan Ferrari (300 km/h) masuk cabang else.
